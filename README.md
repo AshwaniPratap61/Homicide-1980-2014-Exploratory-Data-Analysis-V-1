@@ -101,7 +101,7 @@ Homicide-Crime-EDA/
 │
 ├── Homicide_EDA.ipynb
 ├── README.md
-├── dataset.csv
+Dataset used - https://www.kaggle.com/code/omertzadok/usa-1980-2014-homicides-eda
 
 ---
 
