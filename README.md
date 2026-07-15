@@ -1,6 +1,6 @@
 # Homicide-1980-2014-Exploratory-Data-Analysis-V-1
 
-## 📖 Overview
+## Overview
 
 This project presents an Exploratory Data Analysis (EDA) of a homicide crime dataset using Python. The objective is to uncover meaningful patterns, trends, and relationships within the data through data cleaning, statistical analysis, and visualization.
 
