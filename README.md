@@ -23,6 +23,7 @@ The analysis focuses on understanding crime distribution across different years,
 
 The dataset contains homicide records with information such as:
 
+- Agencies
 - Year
 - Victim Age
 - Victim Sex
